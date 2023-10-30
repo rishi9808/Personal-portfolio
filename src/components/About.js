@@ -10,9 +10,11 @@ const About = () => {
             <br className="hidden lg:inline-block" />I love to build amazing web-apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I'm a self-taught web developer from Kerala, India. I love to build
+            amazing web-apps that can help people. I'm currently pursuing my
+            Bachelors in Computer Science and Engineering from College of
+            Engineering, Kannur. I'm looking for an internship opportunity to
+            work with a team of developers.
           </p>
           <div className="flex justify-center">
             <a
